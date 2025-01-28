@@ -1,0 +1,5 @@
+fastapi==0.100.0  # Core framework for building the backend
+uvicorn==0.23.2   # ASGI server to run the FastAPI app
+pydantic==2.3.0   # Data validation and parsing for request/response models
+sqlalchemy==2.0.21  # ORM for database handling
+sqlite3-binary==3.39.4.post0  # SQLite driver for database operations
